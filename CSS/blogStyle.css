@@ -1,0 +1,30 @@
+#mainBody{
+    border:20px #bdc3c7 solid;
+    width:60%;
+   margin:0 auto;
+   padding-left:1.66%;
+   padding-right:1.66%;
+  
+}
+h1{
+    font-family: 'Source Sans Pro',sans-serif;
+}
+p{
+    font-family: 'Source Sans Pro',sans-serif;
+}
+.date{
+    color:#3498db;
+    font-family: 'Source Sans Pro',sans-serif;
+    letter-spacing:3px;
+    text-transform: uppercase;
+}
+.quote{
+    border-left:5px #bdc3c7 solid;
+    padding-left:1.66%;
+}
+hr{
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
